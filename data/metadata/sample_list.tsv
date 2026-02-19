@@ -1,0 +1,11 @@
+SRR_accession	isolate_id	source	country	year	resistance_phenotype	sequencing_platform	read_length
+SRR8494916	KP01	blood	USA	2017	MDR	Illumina HiSeq 2500	150
+SRR8494917	KP02	urine	USA	2017	XDR	Illumina HiSeq 2500	150
+SRR8494918	KP03	wound	Germany	2016	MDR	Illumina MiSeq	250
+SRR8494919	KP04	blood	India	2018	pan-drug resistant	Illumina HiSeq 4000	150
+SRR8494920	KP05	sputum	China	2018	carbapenem-resistant	Illumina NovaSeq 6000	150
+SRR8494921	KP06	blood	USA	2017	susceptible	Illumina HiSeq 2500	150
+SRR8494922	KP07	urine	Brazil	2019	ESBL	Illumina MiSeq	300
+SRR8494923	KP08	wound	UK	2018	MDR	Illumina HiSeq 4000	150
+SRR8494924	KP09	blood	India	2019	XDR	Illumina NovaSeq 6000	150
+SRR8494925	KP10	sputum	USA	2018	carbapenem-resistant	Illumina HiSeq 2500	150

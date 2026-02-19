@@ -1,0 +1,10 @@
+data/raw/
+data/trimmed/
+data/assemblies/
+*.fastq
+*.fastq.gz
+*.sam
+*.bam
+__pycache__/
+.ipynb_checkpoints/
+*.log
